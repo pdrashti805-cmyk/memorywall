@@ -1,0 +1,2 @@
+# Optional Apache example: set the virtual host document root to this project's public/ directory.
+# Do not put the project root or storage/ inside the public web root.
